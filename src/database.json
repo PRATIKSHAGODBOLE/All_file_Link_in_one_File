@@ -1,0 +1,215 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "latest": false,
+      "oldest": true,
+      "liked": true,
+      "disliked": false,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "latest": false,
+      "oldest": true,
+      "liked": true,
+      "disliked": false,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "title": "nesciunt quas odio",
+      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    },
+    {
+      "id": 5,
+      "title": "React Router",
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "body": "React Router useParamas"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "latest": false,
+      "oldest": true,
+      "liked": true,
+      "disliked": false,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "latest": false,
+      "oldest": true,
+      "liked": true,
+      "disliked": false,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "title": "nesciunt quas odio",
+      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    },
+    {
+      "id": 10,
+      "title": "React Router",
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "body": "React Router useParamas"
+    },
+    {
+      "title": "New Post added",
+      "body": "New Post added",
+      "latest": false,
+      "oldest": true,
+      "id": 11,
+      "liked": false,
+      "disliked": true
+    },
+    {
+      "title": "NEW-POST",
+      "body": "NEW-POST",
+      "latest": false,
+      "oldest": true,
+      "id": 12,
+      "liked": true,
+      "disliked": false
+    },
+    {
+      "title": "Dislike the data",
+      "body": "Dislike the data",
+      "latest": false,
+      "oldest": true,
+      "liked": true,
+      "disliked": false,
+      "id": 13
+    },
+    {
+      "title": "Dislike data not show in oldest post",
+      "body": "Dislike data not show in oldest post",
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "id": 14
+    },
+    {
+      "title": "Disliked",
+      "body": "Disliked",
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "id": 15
+    },
+    {
+      "title": "React-Router",
+      "body": "React-Router",
+      "latest": false,
+      "oldest": true,
+      "liked": true,
+      "disliked": false,
+      "id": 16
+    },
+    {
+      "title": "nesciunt quas odio",
+      "body": "repudiandae veniam quaerat sunt sed\\nalias aut fugiat sit autem sed est\\nvoluptatem omnis possimus esse voluptatibus quis\\nest aut tenetur ",
+      "latest": false,
+      "oldest": true,
+      "liked": true,
+      "disliked": false,
+      "id": 17
+    },
+    {
+      "title": "repudiandae veniam quaerat sunt sed\\nalias aut fugiat sit autem sed est\\nvoluptatem omnis possimus esse voluptatibus quis\\nest aut tenetur ",
+      "body": "repudiandae veniam quaerat sunt sed\\nalias aut fugiat sit autem sed est\\nvoluptatem omnis possimus esse voluptatibus quis\\nest aut tenetur ",
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true,
+      "id": 18
+    },
+    {
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "sunt aut facere repellat provident occaecati excepturi optio reprehenderitsunt aut facere repellat provident occaecati excepturi optio reprehenderitsunt aut facere repellat provident occaecati excepturi optio reprehenderitsunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "latest": true,
+      "oldest": false,
+      "liked": false,
+      "disliked": true,
+      "id": 19
+    },
+    {
+      "title": "qui est esse",
+      "body": "qui est esse qui est esse qui est esse",
+      "latest": true,
+      "oldest": false,
+      "liked": false,
+      "disliked": true,
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@123.com",
+      "password": "admin123",
+      "name": "Admin",
+      "role": "Author"
+    },
+    {
+      "id": 2,
+      "email": "guest@123.com",
+      "password": "guest123",
+      "name": "Guest",
+      "role": "Visitor"
+    },
+    {
+      "email": "pratiksha@123.com",
+      "password": "pratiksha123",
+      "name": "pratiksha",
+      "role": "Visitor",
+      "id": 3
+    }
+  ]
+}
