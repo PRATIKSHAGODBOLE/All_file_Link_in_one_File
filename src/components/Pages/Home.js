@@ -6,7 +6,7 @@ import notFound3 from "./Images/img3.jpg"
 export default function Home() {
     return (
         <div className='container '>
-            <div id="carouselExampleIndicators" className="carousel slide">
+            {/* <div id="carouselExampleIndicators" className="carousel slide">
                 <div className="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -31,7 +31,7 @@ export default function Home() {
                     <span className="carousel-control-next-icon" aria-hidden="true"></span>
                     <span className="visually-hidden">Next</span>
                 </button>
-            </div>
+            </div> */}
         </div>
     )
 }

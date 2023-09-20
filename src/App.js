@@ -34,6 +34,7 @@ import ReversePromoteApp from './components/Pages/ReverseandPromote/ReversePromo
 import StateManagment from './components/Pages/StateManagment';
 import TextChecker from './components/Pages/TextChecker';
 import ReduxContextApi from './components/Pages/ReduxAndContext/ReduxContextApi';
+// import ConditionJS from "./components/Pages/ConditionJS"
 
 //-----------------------------------------------------
 
@@ -71,9 +72,9 @@ function App() {
         <Route path="/state" element={<StateManagment/>}/>
         <Route path="/checker" element={<TextChecker/>}/>
         <Route path="/reduxcontext"element={<ReduxContextApi/>}/>
-        {/* <Route path="/condition" element={<JsCondition/>}/> */}
+        {/* <Route path="/condition" element={<ConditionJS/>}/> */}
         <Route path="/post" element={<Post/>}/>
-        <Route path="/social" element={<SocialPost/>}/>
+        <Route path="/social" element={<SocialPost/>}/>    
         <Route path="/social/:id" element={<SocialDetails/>}/>
         <Route path="/nested" element={<NestedPost/>}/>
         <Route path="/nested/*" element={<NestedPost/>}/>
